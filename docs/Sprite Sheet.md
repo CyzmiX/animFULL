@@ -54,7 +54,7 @@ function love.draw()
 end
 ```
 
-## Creating a save file for sprites
+## Creating a save file for sprites DOES NOT WORK ON MOBILE!
 
 (Check the 2nd example in the example forlder for more detail)
 
