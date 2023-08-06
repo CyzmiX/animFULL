@@ -2,7 +2,7 @@
 
 ## What is AnimFULL?
 
-AnimFULL is a sprite sheet support library made for the amaziing love2D game framework, it's simple, (kinda) fast, and easy to use!
+AnimFULL is a sprite sheet support library made for the amaziing love2D game framework, it's simple, fast, and easy to use!
 
 ## Example Code
 
